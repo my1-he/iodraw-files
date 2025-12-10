@@ -110,13 +110,13 @@
           <mxGeometry x="-560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-45" value="联系人&lt;div&gt;导入/导出/同步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="305" width="90" height="45" as="geometry" />
+          <mxGeometry x="-240" y="307.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-46" value="联系人&lt;div&gt;增删改查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="240" width="60" height="45" as="geometry" />
+          <mxGeometry x="-410" y="307.5" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-47" value="联系人&lt;div&gt;分组与标记&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="305" width="70" height="45" as="geometry" />
+          <mxGeometry x="-330" y="307.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="380" width="120" height="45" as="geometry" />
