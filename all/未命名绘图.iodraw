@@ -55,11 +55,11 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="NKS64obd2PJXfbh0DJXI-15" value="应用后台活动与通知管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-16" value="应用安装、更新与卸载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="940" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="470" width="120" height="40" as="geometry" />
