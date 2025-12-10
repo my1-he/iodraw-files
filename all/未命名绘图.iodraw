@@ -31,6 +31,9 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-11" value="网络连接（Wi-Fi、蜂窝数据、蓝牙）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="310" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NKS64obd2PJXfbh0DJXI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-12" target="NKS64obd2PJXfbh0DJXI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-12" value="数据使用&lt;div&gt;监控与设置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="305" width="80" height="50" as="geometry" />
         </mxCell>
