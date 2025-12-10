@@ -23,10 +23,10 @@
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-15" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-16" value="财务管理人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-17" value="学工办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
