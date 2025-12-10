@@ -7,6 +7,9 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-1" target="NKS64obd2PJXfbh0DJXI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NKS64obd2PJXfbh0DJXI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-1" target="NKS64obd2PJXfbh0DJXI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-1" value="智能手机操作系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-7" value="本地/云文件存储管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKS64obd2PJXfbh0DJXI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-10" target="NKS64obd2PJXfbh0DJXI-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-10" value="网络管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="170" width="120" height="50" as="geometry" />
