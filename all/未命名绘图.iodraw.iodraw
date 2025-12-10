@@ -34,18 +34,14 @@
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-17" value="学工办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="370" as="sourcePoint" />
-            <mxPoint x="380" y="370" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yxm4_7s5PnQ_CEhvUXHl-1" target="yxm4_7s5PnQ_CEhvUXHl-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-20" value="b不及格学生名录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-22" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
