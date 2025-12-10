@@ -55,8 +55,8 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-13" value="个人热点&lt;div&gt;与网络共享&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="310" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="NKS64obd2PJXfbh0DJXI-14" value="短信拦截与设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-15" value="应用后台活动与通知管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="310" width="80" height="40" as="geometry" />
