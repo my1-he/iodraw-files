@@ -116,7 +116,7 @@
           <mxGeometry x="-355" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-44" value="通话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-45" value="联系人&lt;div&gt;导入/导出/同步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="307.5" width="90" height="45" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-48" value="其他功能&lt;div&gt;（静音、录音等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="307.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NKS64obd2PJXfbh0DJXI-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-49" target="NKS64obd2PJXfbh0DJXI-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-49" value="通话记录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="307.5" width="80" height="45" as="geometry" />
