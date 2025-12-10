@@ -23,7 +23,7 @@
           <mxGeometry x="370" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-9" value="输入/更新成绩数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="414" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="yxm4_7s5PnQ_CEhvUXHl-10" target="yxm4_7s5PnQ_CEhvUXHl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
