@@ -56,7 +56,7 @@
           <mxGeometry x="840" y="310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-15" value="应用后台活动与通知管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="310" width="80" height="40" as="geometry" />
