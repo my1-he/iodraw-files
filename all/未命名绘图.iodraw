@@ -109,20 +109,20 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-44" value="通话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NKS64obd2PJXfbh0DJXI-45" value="联系人导入/导出/同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="305" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="320" width="120" height="45" as="geometry" />
+          <mxGeometry x="-470" y="240" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="320" width="120" height="45" as="geometry" />
+          <mxGeometry x="-490" y="310" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="320" width="120" height="45" as="geometry" />
+          <mxGeometry x="-690" y="380" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="280" width="120" height="45" as="geometry" />
+          <mxGeometry x="-670" y="270" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="310" width="120" height="45" as="geometry" />
