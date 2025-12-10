@@ -133,7 +133,7 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-49" value="通话记录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="305" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NKS64obd2PJXfbh0DJXI-50" value="接听/拨打" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="310" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
