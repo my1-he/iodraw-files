@@ -22,9 +22,6 @@
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-10" value="教师" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="154" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=0;" vertex="1" parent="1">
-          <mxGeometry x="154" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
