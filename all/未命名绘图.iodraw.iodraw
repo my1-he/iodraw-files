@@ -43,6 +43,9 @@
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-22" value="成绩单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-24" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
