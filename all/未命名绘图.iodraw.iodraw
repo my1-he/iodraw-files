@@ -41,13 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-20" value="不及格学生名录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="160" height="30" as="geometry" />
+          <mxGeometry x="620" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-22" value="成绩单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-24" value="成绩分析表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="530" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
