@@ -58,7 +58,7 @@
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-28" value="登记后的学生成绩表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-29" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-30" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
