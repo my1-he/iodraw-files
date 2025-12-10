@@ -29,10 +29,10 @@
           <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-11" value="网络连接（Wi-Fi、蜂窝数据、蓝牙）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="620" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-12" value="数据使用&lt;div&gt;监控与设置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="305" width="80" height="50" as="geometry" />
+          <mxGeometry x="747" y="305" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-13" value="个人热点&lt;div&gt;与网络共享&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="310" width="70" height="40" as="geometry" />
