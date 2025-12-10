@@ -13,6 +13,11 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-1" target="NKS64obd2PJXfbh0DJXI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NKS64obd2PJXfbh0DJXI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-1" value="智能手机操作系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -96,9 +101,6 @@
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-34" value="短信接收与发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="307.5" width="90" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="450" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NKS64obd2PJXfbh0DJXI-30" target="NKS64obd2PJXfbh0DJXI-31">
           <mxGeometry relative="1" as="geometry" />
