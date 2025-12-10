@@ -23,7 +23,7 @@
           <mxGeometry x="480" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-7" value="本地/云文件存储管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="70" height="40" as="geometry" />
+          <mxGeometry x="250" y="310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-10" value="网络管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="747" y="305" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-13" value="个人热点&lt;div&gt;与网络共享&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="310" width="70" height="40" as="geometry" />
+          <mxGeometry x="840" y="310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="430" width="120" height="40" as="geometry" />
