@@ -10,7 +10,7 @@
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yxm4_7s5PnQ_CEhvUXHl-1" target="yxm4_7s5PnQ_CEhvUXHl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yxm4_7s5PnQ_CEhvUXHl-1" target="yxm4_7s5PnQ_CEhvUXHl-15">
+        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yxm4_7s5PnQ_CEhvUXHl-22" target="yxm4_7s5PnQ_CEhvUXHl-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-1" value="成绩管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,8 +40,14 @@
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-20" value="b不及格学生名录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yxm4_7s5PnQ_CEhvUXHl-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yxm4_7s5PnQ_CEhvUXHl-1" target="yxm4_7s5PnQ_CEhvUXHl-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-22" value="成绩单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="360" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="360" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
