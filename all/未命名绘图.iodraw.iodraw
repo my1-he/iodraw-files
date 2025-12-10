@@ -56,7 +56,7 @@
           <mxGeometry x="470" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-28" value="登记后的学生成绩表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="230" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
