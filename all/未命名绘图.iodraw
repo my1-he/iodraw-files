@@ -97,7 +97,7 @@
           <mxGeometry x="-20" y="305" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-34" value="短信接收与发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="305" width="120" height="45" as="geometry" />
+          <mxGeometry x="-130" y="307.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="450" width="120" height="45" as="geometry" />
