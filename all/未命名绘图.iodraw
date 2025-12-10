@@ -85,8 +85,8 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-30" value="短信管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="NKS64obd2PJXfbh0DJXI-31" value="管理功能（收藏、删除、归档）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
