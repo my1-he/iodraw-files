@@ -22,7 +22,7 @@
         <mxCell id="NKS64obd2PJXfbh0DJXI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="NKS64obd2PJXfbh0DJXI-1" target="NKS64obd2PJXfbh0DJXI-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NKS64obd2PJXfbh0DJXI-1" value="智能手机操作系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NKS64obd2PJXfbh0DJXI-1" value="&lt;font face=&quot;楷体&quot;&gt;智能手机操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="NKS64obd2PJXfbh0DJXI-2" target="NKS64obd2PJXfbh0DJXI-4" edge="1">
