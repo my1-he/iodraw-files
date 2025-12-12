@@ -101,7 +101,7 @@
           <mxGeometry x="-20" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-31" value="管理功能&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（收藏、删除、归档）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="305" width="130" height="50" as="geometry" />
+          <mxGeometry x="-25" y="302.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKS64obd2PJXfbh0DJXI-34" value="短信接收与发送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="307.5" width="90" height="45" as="geometry" />
