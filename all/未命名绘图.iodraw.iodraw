@@ -293,6 +293,9 @@
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-105" value="部门信息管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="980" width="30" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-107" value="安全退出系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1390" width="30" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
