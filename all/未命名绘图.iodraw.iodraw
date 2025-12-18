@@ -140,18 +140,6 @@
             <mxGeometry x="398" y="849" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="Connector" id="xJrA225ZDyzQPlU35xZQ-31">
-          <mxCell style="vsdxID=83;edgeStyle=none;startArrow=none;endArrow=none;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;" edge="1" parent="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-1" as="offset" />
-              <Array as="points">
-                <mxPoint x="298.06" y="862" />
-              </Array>
-              <mxPoint x="398" y="862" as="sourcePoint" />
-              <mxPoint x="298" y="862" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Connector" id="xJrA225ZDyzQPlU35xZQ-32">
           <mxCell style="vsdxID=84;edgeStyle=none;startArrow=block;endArrow=none;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
