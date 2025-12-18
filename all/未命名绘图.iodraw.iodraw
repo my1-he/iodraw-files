@@ -420,6 +420,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="" tags="Connector" id="xJrA225ZDyzQPlU35xZQ-76">
+          <mxCell style="vsdxID=55;edgeStyle=none;startArrow=none;endArrow=block;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5036496350364964;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=楷体;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+              <mxPoint x="190" y="850" as="sourcePoint" />
+              <mxPoint x="190" y="884" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
