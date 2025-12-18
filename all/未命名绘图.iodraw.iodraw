@@ -281,6 +281,15 @@
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-101" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1060" width="30" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-102" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1120" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-103" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1320" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-104" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1360" width="30" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
