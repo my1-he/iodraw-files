@@ -154,7 +154,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="背景" id="1P488yVRu4v4Y47ZJe---33">
-          <mxCell style="vsdxID=55;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;" edge="1" parent="1">
+          <mxCell style="vsdxID=55;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;curved=1;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="1230" y="355" as="sourcePoint" />
@@ -244,18 +244,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="1P488yVRu4v4Y47ZJe---53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1224" y="357" as="sourcePoint" />
-            <mxPoint x="1263" y="445" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1228" y="455" />
-              <mxPoint x="1208" y="435" />
-              <mxPoint x="1248" y="465" />
-              <mxPoint x="1258" y="475" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
