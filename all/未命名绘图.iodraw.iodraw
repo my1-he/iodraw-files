@@ -127,7 +127,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="背景" id="Dsmf5kFsv0NlGux0U_HY-23">
-          <mxCell style="vsdxID=36;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;fontSize=17;" edge="1" parent="1" source="Dsmf5kFsv0NlGux0U_HY-101">
+          <mxCell style="vsdxID=36;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;fontSize=17;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="772" y="1128" as="sourcePoint" />
@@ -278,6 +278,9 @@
             <mxGeometry x="160" y="390" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-101" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;楷体&quot;&gt;企业基本信息&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1135" width="20" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-102" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1120" width="30" height="200" as="geometry" />
         </mxCell>
@@ -289,16 +292,6 @@
         </mxCell>
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-105" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="980" width="30" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Dsmf5kFsv0NlGux0U_HY-106" value="" style="vsdxID=36;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=楷体;fontSize=17;" edge="1" parent="1" target="Dsmf5kFsv0NlGux0U_HY-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="772" y="1128" as="sourcePoint" />
-            <mxPoint x="772" y="1340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dsmf5kFsv0NlGux0U_HY-101" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;楷体&quot;&gt;企业基本信息&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1180" width="20" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
