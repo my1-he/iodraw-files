@@ -296,7 +296,7 @@
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-107" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;楷体&quot;&gt;安全退出系统&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="904.5" y="1135" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Dsmf5kFsv0NlGux0U_HY-108" value="" style="endArrow=none;html=1;rounded=0;exitX=0.063;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dsmf5kFsv0NlGux0U_HY-1">
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-108" value="" style="endArrow=none;html=1;rounded=0;exitX=0.411;exitY=-0.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dsmf5kFsv0NlGux0U_HY-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="960" as="sourcePoint" />
             <mxPoint x="270" y="910" as="targetPoint" />
