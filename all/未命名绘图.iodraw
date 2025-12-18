@@ -417,8 +417,8 @@
         </mxCell>
         <mxCell id="LGr8LweXDXBe0FaIi-h7-77" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="930" y="370" as="sourcePoint" />
-            <mxPoint x="1010" y="370" as="targetPoint" />
+            <mxPoint x="930" y="371" as="sourcePoint" />
+            <mxPoint x="1010" y="371" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
