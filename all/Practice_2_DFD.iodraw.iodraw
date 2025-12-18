@@ -56,7 +56,7 @@
           <mxGeometry x="500" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-28" value="登记后的学生成绩表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=楷体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="110" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="90" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxm4_7s5PnQ_CEhvUXHl-30" value="生成成绩单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=楷体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="70" height="30" as="geometry" />
