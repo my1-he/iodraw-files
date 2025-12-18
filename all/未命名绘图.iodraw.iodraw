@@ -278,7 +278,7 @@
             <mxGeometry x="160" y="390" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Dsmf5kFsv0NlGux0U_HY-101" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Dsmf5kFsv0NlGux0U_HY-101" value="企业基本信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1060" width="30" height="200" as="geometry" />
         </mxCell>
       </root>
