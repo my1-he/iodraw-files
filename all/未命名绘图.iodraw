@@ -415,14 +415,13 @@
         <mxCell id="LGr8LweXDXBe0FaIi-h7-75" style="fontFamily=楷体;" vertex="1" parent="1">
           <mxGeometry x="930" y="240" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Connector" id="LGr8LweXDXBe0FaIi-h7-76">
-          <mxCell style="vsdxID=38;edgeStyle=none;startArrow=none;endArrow=none;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=楷体;" edge="1" parent="1" source="LGr8LweXDXBe0FaIi-h7-1" target="LGr8LweXDXBe0FaIi-h7-75">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="5" y="-1" as="offset" />
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
+        <mxCell id="LGr8LweXDXBe0FaIi-h7-77" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="930" y="370" as="sourcePoint" />
+            <mxPoint x="1010" y="370" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
