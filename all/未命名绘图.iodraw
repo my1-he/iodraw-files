@@ -244,13 +244,14 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="1P488yVRu4v4Y47ZJe---53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.519;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="1P488yVRu4v4Y47ZJe---53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1236.0259999999998" y="362.03999999999996" as="sourcePoint" />
+            <mxPoint x="1236" y="362" as="sourcePoint" />
             <mxPoint x="1275" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1275" y="500" />
               <mxPoint x="1225" y="450" />
+              <mxPoint x="1260" y="470" />
               <mxPoint x="1275" y="490" />
             </Array>
           </mxGeometry>
