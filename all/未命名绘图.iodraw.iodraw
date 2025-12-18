@@ -282,7 +282,7 @@
           <mxGeometry x="750" y="1135" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-102" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;楷体&quot;&gt;合同到期提醒&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1120" width="30" height="200" as="geometry" />
+          <mxGeometry x="800" y="1135" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Dsmf5kFsv0NlGux0U_HY-103" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;楷体&quot;&gt;生日提醒&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="829" y="1134" width="20" height="200" as="geometry" />
