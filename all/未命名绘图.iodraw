@@ -237,13 +237,6 @@
         <mxCell id="1P488yVRu4v4Y47ZJe---47" style="fontFamily=楷体;" vertex="1" parent="1">
           <mxGeometry x="1303" y="435" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="背景" id="1P488yVRu4v4Y47ZJe---48">
-          <mxCell style="vsdxID=67;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=楷体;" edge="1" parent="1" source="1P488yVRu4v4Y47ZJe---47" target="1P488yVRu4v4Y47ZJe---11">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <mxCell id="1P488yVRu4v4Y47ZJe---54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.487;exitY=1.072;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.019;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1P488yVRu4v4Y47ZJe---26" target="1P488yVRu4v4Y47ZJe---35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1220" y="500" as="sourcePoint" />
