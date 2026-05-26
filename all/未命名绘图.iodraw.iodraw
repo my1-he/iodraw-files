@@ -446,7 +446,10 @@
           <mxGeometry x="125" y="870" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-92" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;······&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="275" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-93" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;分类名&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="730" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
