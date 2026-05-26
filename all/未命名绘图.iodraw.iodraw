@@ -476,7 +476,10 @@
           <mxGeometry x="935" y="850" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-102" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;性别&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-103" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;姓名&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="650" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
