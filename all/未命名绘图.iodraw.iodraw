@@ -446,7 +446,7 @@
           <mxGeometry x="125" y="870" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-92" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;······&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="385" y="740" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-93" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;价格&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="720" width="80" height="40" as="geometry" />
@@ -507,6 +507,9 @@
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-112" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;编号&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1050" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-113" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1160" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
