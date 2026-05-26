@@ -455,7 +455,10 @@
           <mxGeometry x="310" y="1020" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-95" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;还书日期&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="640" width="100" height="40" as="geometry" />
+          <mxGeometry x="400" y="1050" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-96" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;借书日期&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
