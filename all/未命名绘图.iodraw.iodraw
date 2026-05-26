@@ -437,7 +437,10 @@
           <mxGeometry x="15" y="710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-89" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;书名&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="710" width="80" height="40" as="geometry" />
+          <mxGeometry x="-10" y="780" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-90" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;出版社&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
