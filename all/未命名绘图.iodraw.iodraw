@@ -392,7 +392,10 @@
           <mxGeometry x="410" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-73" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;图书分类&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="90" height="60" as="geometry" />
+          <mxGeometry x="130" y="390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-74" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;读者分类&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="510" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
