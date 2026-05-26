@@ -400,8 +400,8 @@
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-76" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;借还书&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="955" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-77" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;图书&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="130" width="80" height="60" as="geometry" />
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-77" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;分类名&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
