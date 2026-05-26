@@ -532,8 +532,8 @@
             <mxPoint x="1020" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-119" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1100" width="60" height="30" as="geometry" />
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-119" value="管理员" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1140" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
