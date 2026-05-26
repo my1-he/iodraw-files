@@ -100,8 +100,8 @@
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-3" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="830" width="60" height="30" as="geometry" />
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-3" value="图书" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="785" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
