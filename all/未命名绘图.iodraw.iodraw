@@ -421,6 +421,9 @@
         <mxCell id="ZvA8UCXDvXzGKJCKWYwd-83" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;编号&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="340" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZvA8UCXDvXzGKJCKWYwd-84" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;编号&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
