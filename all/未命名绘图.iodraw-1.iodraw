@@ -19,6 +19,9 @@
         <mxCell id="EN4FGH6BZIiQQU4tkpuO-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 24px;&quot;&gt;预置静态测试矩阵&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="35" width="390" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EN4FGH6BZIiQQU4tkpuO-5" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
