@@ -94,7 +94,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-30" value="NO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="360" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-31" value="NO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
