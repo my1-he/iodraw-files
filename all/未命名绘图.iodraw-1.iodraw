@@ -49,10 +49,10 @@
         <mxCell id="qr9tAk6DfPs7kjZEMvcD-13" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 19px;&quot; class=&quot;15&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;控制驱动层&lt;/font&gt; (Test Runner Engine) &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="160" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qr9tAk6DfPs7kjZEMvcD-14" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 19px;&quot; class=&quot;15&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;协议解析核心层&lt;/font&gt; (L3 IP/ L4 TCP&amp;amp;UDP)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qr9tAk6DfPs7kjZEMvcD-14" value="&lt;span class=&quot;15&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;协议解析核心层&lt;/font&gt; (L3 IP/ L4 TCP&amp;amp;UDP)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;fontFamily=楷体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="300" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qr9tAk6DfPs7kjZEMvcD-15" value="数据用例层 (静态测试矩阵 Static Buffer)" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qr9tAk6DfPs7kjZEMvcD-15" value="数据用例层 (静态测试矩阵 Static Buffer)" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=0;fontFamily=楷体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="440" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
