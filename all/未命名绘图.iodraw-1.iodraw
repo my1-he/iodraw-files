@@ -84,6 +84,9 @@
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="585" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-28" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Courier New&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.0000pt;&quot; class=&quot;15&quot;&gt;Length &amp;lt; ihl * 4&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="605" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
