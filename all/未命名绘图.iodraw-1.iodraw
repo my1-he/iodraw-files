@@ -47,7 +47,7 @@
           <mxGeometry x="360" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-13" value="&lt;p class=&quot;pre&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot; class=&quot;15&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;内存映射&lt;/font&gt;/&lt;font style=&quot;font-size: 15px;&quot;&gt;拷贝至结构体&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pre&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(ip_hdr_t*) buffer&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=楷体;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="325" width="330" height="90" as="geometry" />
+          <mxGeometry x="120" y="325" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="470" width="150" height="70" as="geometry" />
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="390" as="sourcePoint" />
-            <mxPoint x="530" y="340" as="targetPoint" />
+            <mxPoint x="660" y="410" as="sourcePoint" />
+            <mxPoint x="710" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
