@@ -10,7 +10,7 @@
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-1" value="&lt;span class=&quot;15&quot; style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;&amp;nbsp;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt; Buffer &amp;amp; Length&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="40" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-2" value="&lt;span class=&quot;15&quot; style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;&amp;nbsp;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt; Buffer &amp;amp; Length&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-2" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Courier New&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.0000pt;&quot; class=&quot;15&quot;&gt;&amp;nbsp;Length &amp;lt; 20 &lt;font face=&quot;宋体&quot;&gt;字节&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="160" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
