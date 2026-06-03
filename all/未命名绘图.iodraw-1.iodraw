@@ -46,9 +46,6 @@
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-12" value="NO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pf9yDLiwu0vRvlu3wIVy-13" target="Pf9yDLiwu0vRvlu3wIVy-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-13" value="&lt;p class=&quot;pre&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot; class=&quot;15&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;内存映射&lt;/font&gt;/&lt;font style=&quot;font-size: 15px;&quot;&gt;拷贝至结构体&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pre&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(ip_hdr_t*) buffer&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=楷体;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="325" width="200" height="75" as="geometry" />
         </mxCell>
@@ -75,8 +72,8 @@
         </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="400" as="sourcePoint" />
-            <mxPoint x="590" y="470" as="targetPoint" />
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
