@@ -7,6 +7,9 @@
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="30" width="190" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pf9yDLiwu0vRvlu3wIVy-1" target="Pf9yDLiwu0vRvlu3wIVy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-1" value="&lt;span class=&quot;15&quot; style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;&amp;nbsp;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;输入&lt;/font&gt; Buffer &amp;amp; Length&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="40" width="190" height="30" as="geometry" />
         </mxCell>
@@ -16,10 +19,10 @@
         <mxCell id="Pf9yDLiwu0vRvlu3wIVy-4" value="&lt;span class=&quot;15&quot; style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 13px;&quot;&gt;&amp;nbsp;Length &amp;lt; 20 &lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;字节&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="200" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Pf9yDLiwu0vRvlu3wIVy-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pf9yDLiwu0vRvlu3wIVy-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="390" as="sourcePoint" />
-            <mxPoint x="530" y="340" as="targetPoint" />
+            <mxPoint x="570" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
