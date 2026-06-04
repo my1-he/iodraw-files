@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="cna8ruI0kbTbWs3zWOi6-56" value="packet_handler() 每包触发事件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="600" width="329" height="742" as="geometry" />
+          <mxGeometry x="414" y="710" width="329" height="742" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-57" value="以太网帧校验 (≥14B)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="cna8ruI0kbTbWs3zWOi6-56">
           <mxGeometry x="69" y="46" width="207" height="49" as="geometry" />
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-72" value="&lt;b&gt;注册信号处理&lt;/b&gt;&#xa;• signal(SIGINT, sig_handler) -&amp;gt; 捕捉 Ctrl+C&#xa;• signal(SIGTERM, sig_handler) -&amp;gt; 捕捉 kill" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="285" width="254" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="cna8ruI0kbTbWs3zWOi6-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cna8ruI0kbTbWs3zWOi6-73" target="cna8ruI0kbTbWs3zWOi6-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-73" value="&lt;b&gt;pcap_loop(g_handle, -1, packet_handler, NULL)&lt;/b&gt;&#xa;进入捕获主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="862" y="534" width="490" height="101" as="geometry" />
