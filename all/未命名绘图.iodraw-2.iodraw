@@ -100,15 +100,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cna8ruI0kbTbWs3zWOi6-81" value="Ctrl+C / 信号中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0;entryY=0.5;rounded=0;fontSize=16;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cna8ruI0kbTbWs3zWOi6-73" target="cna8ruI0kbTbWs3zWOi6-74">
-          <mxGeometry x="-0.5702" y="-11" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="526" y="1126" />
-              <mxPoint x="910" y="990" />
-            </Array>
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.553;exitY=1.027;entryX=0.5;entryY=0;rounded=0;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cna8ruI0kbTbWs3zWOi6-74" target="cna8ruI0kbTbWs3zWOi6-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
