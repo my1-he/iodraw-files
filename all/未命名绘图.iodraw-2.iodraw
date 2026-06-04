@@ -50,7 +50,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cna8ruI0kbTbWs3zWOi6-68" value="pcap_findalldevs()&lt;/b&gt;&#xa;• 枚举所有可用网卡&#xa;• 用户选择网卡接口" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cna8ruI0kbTbWs3zWOi6-68" value="&lt;b&gt;pcap_findalldevs()&lt;/b&gt;&#xa;• 枚举所有可用网卡&#xa;• 用户选择网卡接口" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="20" width="510" height="101" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-69" value="&lt;b&gt;pcap_open_live()&lt;/b&gt;&#xa;• device (网卡名称)&#xa;• 65535 (最大帧缓冲区)&#xa;• 1 (混杂模式 ON)&#xa;• 1000 (超时 1000ms)&#xa;• errbuf&#xa;&lt;b&gt;→ 获得 g_handle&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
