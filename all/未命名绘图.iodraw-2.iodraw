@@ -63,7 +63,7 @@
           <mxGeometry x="1444.5" y="250" width="241" height="172" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-72" value="&lt;b&gt;注册信号处理&lt;/b&gt;&#xa;• signal(SIGINT, sig_handler) -&amp;gt; 捕捉 Ctrl+C&#xa;• signal(SIGTERM, sig_handler) -&amp;gt; 捕捉 kill" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="228" y="802" width="254" height="137" as="geometry" />
+          <mxGeometry x="980" y="285" width="254" height="137" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-73" value="&lt;b&gt;pcap_loop(g_handle, -1, packet_handler, NULL)&lt;/b&gt;&#xa;进入捕获主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="232" y="989" width="247" height="101" as="geometry" />
@@ -90,7 +90,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cna8ruI0kbTbWs3zWOi6-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cna8ruI0kbTbWs3zWOi6-71" target="cna8ruI0kbTbWs3zWOi6-72">
+        <mxCell id="cna8ruI0kbTbWs3zWOi6-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;fontSize=16;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cna8ruI0kbTbWs3zWOi6-71" target="cna8ruI0kbTbWs3zWOi6-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
