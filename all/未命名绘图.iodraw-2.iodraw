@@ -66,7 +66,7 @@
           <mxGeometry x="980" y="285" width="254" height="137" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-73" value="&lt;b&gt;pcap_loop(g_handle, -1, packet_handler, NULL)&lt;/b&gt;&#xa;进入捕获主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="994" y="550" width="247" height="101" as="geometry" />
+          <mxGeometry x="862" y="534" width="490" height="101" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-74" value="&lt;b&gt;sig_handler() 信号触发&lt;/b&gt;&#xa;• pcap_breakloop(g_handle)&#xa;&lt;b&gt;→ 异步信号安全退出&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="990" width="253" height="137" as="geometry" />
