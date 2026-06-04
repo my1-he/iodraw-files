@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="cna8ruI0kbTbWs3zWOi6-56" value="packet_handler() 每包触发事件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1169" width="329" height="742" as="geometry" />
+          <mxGeometry x="410" y="600" width="329" height="742" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-57" value="以太网帧校验 (≥14B)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="cna8ruI0kbTbWs3zWOi6-56">
           <mxGeometry x="69" y="46" width="207" height="49" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="1250" y="790" width="253" height="137" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-75" value="&lt;b&gt;pcap_close(g_handle)&lt;/b&gt;&#xa;• 释放网卡资源，程序结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1571" y="1100" width="249" height="84" as="geometry" />
+          <mxGeometry x="1270" y="1020" width="249" height="84" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-76" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontSize=16;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="cna8ruI0kbTbWs3zWOi6-86">
           <mxGeometry relative="1" as="geometry">
