@@ -60,7 +60,7 @@
           <mxGeometry x="100" y="380" width="510" height="154" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-71" value="&lt;b&gt;pcap_setfilter(g_handle, &amp;amp;fp)&lt;/b&gt;&#xa;• 注入内核过滤&#xa;&#xa;&lt;b&gt;pcap_freecode(&amp;amp;fp)&lt;/b&gt;&#xa;• 释放过滤码内存" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="580" width="241" height="172" as="geometry" />
+          <mxGeometry x="235" y="752" width="241" height="228" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-72" value="&lt;b&gt;注册信号处理&lt;/b&gt;&#xa;• signal(SIGINT, sig_handler) -&amp;gt; 捕捉 Ctrl+C&#xa;• signal(SIGTERM, sig_handler) -&amp;gt; 捕捉 kill" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="228" y="802" width="254" height="137" as="geometry" />
