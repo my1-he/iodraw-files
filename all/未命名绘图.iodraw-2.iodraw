@@ -9,7 +9,7 @@
             <mxPoint x="1140" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cna8ruI0kbTbWs3zWOi6-56" value="packet_handler() 每包触发事件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cna8ruI0kbTbWs3zWOi6-56" value="packet_handler() 每包触发事件" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="710" width="329" height="742" as="geometry" />
         </mxCell>
         <mxCell id="cna8ruI0kbTbWs3zWOi6-57" value="以太网帧校验 (≥14B)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="cna8ruI0kbTbWs3zWOi6-56">
