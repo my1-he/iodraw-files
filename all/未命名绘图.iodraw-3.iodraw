@@ -31,12 +31,12 @@
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-60" value="商家可登录&#xa;使用全部功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="403" y="960" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-54" target="fy_Cb_Nn_co37s8WlPlk-55">
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-54" target="fy_Cb_Nn_co37s8WlPlk-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-62" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="fy_Cb_Nn_co37s8WlPlk-56">
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-62" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-55" target="fy_Cb_Nn_co37s8WlPlk-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="230" y="720" as="sourcePoint" />
