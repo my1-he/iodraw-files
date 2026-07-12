@@ -14,7 +14,7 @@
           <mxGeometry x="490" y="620" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="990" width="92" height="49" as="geometry" />
+          <mxGeometry x="80" y="890" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-4" value="主营" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="218" y="475" width="81" height="55" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="320" y="760" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-7" value="食安主投诉" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="720" width="129" height="129" as="geometry" />
+          <mxGeometry x="80" y="720" width="129" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-8" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-0" target="fy_Cb_Nn_co37s8WlPlk-4">
           <mxGeometry relative="1" as="geometry">
