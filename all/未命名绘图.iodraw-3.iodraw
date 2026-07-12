@@ -11,10 +11,10 @@
           <mxGeometry x="-330" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-54" value="商家注册&#xa;填写店铺信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="166" y="660" width="157" height="66" as="geometry" />
+          <mxGeometry x="-130" y="680" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-55" value="提交审核&#xa;status=待审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="776" width="160" height="66" as="geometry" />
+          <mxGeometry x="70" y="680" width="160" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-56" value="管理员审核&#xa;查看证照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="174" y="893" width="141" height="66" as="geometry" />
