@@ -4,8 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-0" target="fy_Cb_Nn_co37s8WlPlk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-0" value="品类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="212" y="420" width="93" height="49" as="geometry" />
+          <mxGeometry x="218" y="420" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-1" value="商家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="218" y="610" width="93" height="49" as="geometry" />
@@ -17,7 +20,7 @@
           <mxGeometry x="80" y="890" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-4" value="主营" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="218" y="510" width="81" height="55" as="geometry" />
+          <mxGeometry x="224" y="510" width="81" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-5" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="364" y="610" width="81" height="81" as="geometry" />
