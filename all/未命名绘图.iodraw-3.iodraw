@@ -23,7 +23,7 @@
           <mxGeometry x="334" y="650" width="125" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-44" value="后端生成订单&#xa;扣库存+核销码&#xa;生成核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-96" y="987.5" width="164" height="84" as="geometry" />
+          <mxGeometry x="314.5" y="770" width="164" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-45" value="用户到店&#xa;出示核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-84" y="1121.5" width="140" height="66" as="geometry" />
