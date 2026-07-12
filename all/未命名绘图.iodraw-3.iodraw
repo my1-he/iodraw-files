@@ -23,13 +23,13 @@
           <mxGeometry x="110" y="820" width="159" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-58" value="填写驳回原因&#xa;商家重新提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="113" y="990" width="156" height="66" as="geometry" />
+          <mxGeometry x="111.5" y="960" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-59" value="审核通过&#xa;status=已通过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="820" width="159" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-60" value="商家可登录&#xa;使用全部功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271" y="1148" width="156" height="66" as="geometry" />
+          <mxGeometry x="401.5" y="990" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-54" target="fy_Cb_Nn_co37s8WlPlk-55">
           <mxGeometry relative="1" as="geometry">
