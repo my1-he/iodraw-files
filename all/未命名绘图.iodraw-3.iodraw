@@ -10,57 +10,6 @@
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-330" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-40" value="用户浏览&#xa;盲盒首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-76" y="522.5" width="124" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-41" value="选择盲盒&#xa;点击立即下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="522.5" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-42" value="弹窗确认&#xa;金额和取货时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="522.5" width="173" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-43" value="确认支付&#xa;(模拟)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="334" y="650" width="125" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-44" value="后端生成订单&#xa;扣库存+核销码&#xa;生成核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314.5" y="770" width="164" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-45" value="用户到店&#xa;出示核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="118" y="779" width="140" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-46" value="商家扫码核销&#xa;订单完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="779" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-40" target="fy_Cb_Nn_co37s8WlPlk-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-41" target="fy_Cb_Nn_co37s8WlPlk-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-42" target="fy_Cb_Nn_co37s8WlPlk-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-43" target="fy_Cb_Nn_co37s8WlPlk-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-44" target="fy_Cb_Nn_co37s8WlPlk-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-45" target="fy_Cb_Nn_co37s8WlPlk-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
