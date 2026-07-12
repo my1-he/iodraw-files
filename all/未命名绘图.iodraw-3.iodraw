@@ -10,7 +10,7 @@
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-1" value="商家" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="218" y="610" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-2" value="商品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-2" value="盲盒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="620" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -95,7 +95,7 @@
           <mxGeometry x="311" y="619" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="441" y="619" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
