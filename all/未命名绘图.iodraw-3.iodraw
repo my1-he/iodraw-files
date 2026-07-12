@@ -26,10 +26,10 @@
           <mxGeometry x="314.5" y="770" width="164" height="84" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-45" value="用户到店&#xa;出示核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-84" y="1121.5" width="140" height="66" as="geometry" />
+          <mxGeometry x="118" y="779" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-46" value="商家扫码核销&#xa;订单完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-92" y="1237.5" width="156" height="66" as="geometry" />
+          <mxGeometry x="-100" y="779" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-40" target="fy_Cb_Nn_co37s8WlPlk-41">
           <mxGeometry relative="1" as="geometry">
