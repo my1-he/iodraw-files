@@ -46,7 +46,7 @@
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-82" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="763" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-83" value="当前时间&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&amp;gt;截止时间?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;当前时间&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&amp;gt;截止时间?&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="850" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
