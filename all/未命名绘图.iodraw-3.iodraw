@@ -23,7 +23,7 @@
           <mxGeometry x="70" y="880" width="166" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-75" value="订单状态&#xa;= 已过期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="770" width="124" height="66" as="geometry" />
+          <mxGeometry x="318" y="770" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-76" value="保持&#xa;待自提状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="990" width="140" height="66" as="geometry" />
@@ -41,20 +41,6 @@
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-73" target="fy_Cb_Nn_co37s8WlPlk-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-80" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-74" target="fy_Cb_Nn_co37s8WlPlk-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="82" y="1061" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-81" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-74" target="fy_Cb_Nn_co37s8WlPlk-76">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="264" y="1061" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
