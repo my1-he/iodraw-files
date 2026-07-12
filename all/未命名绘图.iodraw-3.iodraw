@@ -36,7 +36,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-41" target="fy_Cb_Nn_co37s8WlPlk-42">
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-41" target="fy_Cb_Nn_co37s8WlPlk-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
