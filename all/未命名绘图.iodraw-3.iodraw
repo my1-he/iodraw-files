@@ -17,10 +17,10 @@
           <mxGeometry x="110" y="522.5" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-42" value="弹窗确认&#xa;金额和取货时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="755.5" width="173" height="66" as="geometry" />
+          <mxGeometry x="310" y="522.5" width="173" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-43" value="确认支付&#xa;(模拟)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-76" y="871.5" width="125" height="66" as="geometry" />
+          <mxGeometry x="334" y="650" width="125" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-44" value="后端生成订单&#xa;扣库存+核销码&#xa;生成核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-96" y="987.5" width="164" height="84" as="geometry" />
