@@ -14,7 +14,7 @@
           <mxGeometry x="-76" y="522.5" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-41" value="选择盲盒&#xa;点击立即下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-92" y="638.5" width="156" height="66" as="geometry" />
+          <mxGeometry x="110" y="522.5" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-42" value="弹窗确认&#xa;金额和取货时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="755.5" width="173" height="66" as="geometry" />
