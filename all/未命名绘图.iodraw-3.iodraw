@@ -16,9 +16,6 @@
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-55" value="提交审核&#xa;status=待审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="680" width="160" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-56" target="fy_Cb_Nn_co37s8WlPlk-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-56" value="管理员审核&#xa;查看证照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="272.5" y="680" width="141" height="66" as="geometry" />
         </mxCell>
