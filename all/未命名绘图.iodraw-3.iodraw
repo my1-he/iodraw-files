@@ -11,7 +11,7 @@
           <mxGeometry x="218" y="610" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-2" value="商品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="927" width="92" height="49" as="geometry" />
+          <mxGeometry x="490" y="620" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="990" width="92" height="49" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="218" y="475" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-5" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="774" width="81" height="81" as="geometry" />
+          <mxGeometry x="364" y="610" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-6" value="订单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="261" y="1026" width="81" height="81" as="geometry" />
