@@ -20,7 +20,7 @@
           <mxGeometry x="224" y="510" width="81" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-5" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="610" width="81" height="81" as="geometry" />
+          <mxGeometry x="364" y="610" width="81" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fy_Cb_Nn_co37s8WlPlk-6" value="订单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="760" width="81" height="81" as="geometry" />
@@ -46,7 +46,7 @@
             <mxPoint x="440" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fy_Cb_Nn_co37s8WlPlk-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fy_Cb_Nn_co37s8WlPlk-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fy_Cb_Nn_co37s8WlPlk-1" target="fy_Cb_Nn_co37s8WlPlk-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="710" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
