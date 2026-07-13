@@ -520,25 +520,25 @@
           <mxGeometry x="3760" y="4480" width="142" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-11" value="盲盒管理&#xa;(列表·详情·下架·举报)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3981" y="4113" width="217" height="66" as="geometry" />
+          <mxGeometry x="3993" y="4369" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-12" value="订单管理&#xa;(列表·退款审核·详情)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4248" y="4113" width="212" height="66" as="geometry" />
+          <mxGeometry x="4260" y="4551.5" width="212" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-13" value="食品安全&#xa;(投诉·索证存证)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4510" y="4113" width="174" height="66" as="geometry" />
+          <mxGeometry x="4490" y="4419" width="174" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-14" value="分类管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4733" y="4122" width="125" height="49" as="geometry" />
+          <mxGeometry x="4710" y="4455" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-15" value="平台设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4908" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="4850" y="4460" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-16" value="操作日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="5082" y="4122" width="125" height="49" as="geometry" />
+          <mxGeometry x="5050" y="4419" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-17" value="AI 运营助手" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="5257" y="4122" width="143" height="49" as="geometry" />
+          <mxGeometry x="5230" y="4419" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-18" value="用户端（6 页）&#xa;消费者 — 浏览·下单·核销" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2193" y="3988" width="237" height="66" as="geometry" />
