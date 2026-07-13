@@ -330,6 +330,12 @@
         <mxCell id="SaAClxn0hPx67OiemrMv-82" value="订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="276.5" y="3647.5" width="92" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="SaAClxn0hPx67OiemrMv-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="3580" as="sourcePoint" />
+            <mxPoint x="280" y="3530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
