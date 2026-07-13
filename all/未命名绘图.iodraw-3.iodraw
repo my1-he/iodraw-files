@@ -234,7 +234,7 @@
           <mxGeometry x="-170" y="3113" width="165" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-44" value="当前时间&#xa;&gt;截止时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110.5" y="3120" width="149.5" height="71" as="geometry" />
+          <mxGeometry x="105" y="3110.5" width="149.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-45" value="订单状态&#xa;= 已过期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="393" y="3030" width="124" height="66" as="geometry" />
@@ -252,10 +252,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SaAClxn0hPx67OiemrMv-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="3100" as="sourcePoint" />
-            <mxPoint x="130" y="3050" as="targetPoint" />
+            <mxPoint x="80" y="3146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
