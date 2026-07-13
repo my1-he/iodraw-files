@@ -124,8 +124,8 @@
         <mxCell id="SaAClxn0hPx67OiemrMv-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="1158" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="1270" width="60" height="30" as="geometry" />
+        <mxCell id="SaAClxn0hPx67OiemrMv-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="1417" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
