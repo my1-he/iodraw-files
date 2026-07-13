@@ -547,7 +547,7 @@
           <mxGeometry x="5230" y="4419" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-18" value="用户端&#xa;消费者 — 浏览·下单·核销" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2193" y="3988" width="237" height="66" as="geometry" />
+          <mxGeometry x="2193.5" y="4026" width="237" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-19" value="注册登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1910" y="4311" width="124" height="49" as="geometry" />
@@ -565,7 +565,7 @@
           <mxGeometry x="2686" y="4360" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-24" value="商家端&#xa;商超店员 — 发布·核销·报表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1860" y="3988" width="253" height="66" as="geometry" />
+          <mxGeometry x="1860" y="4026" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-25" value="注册入驻" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="203.25" y="4113" width="124" height="49" as="geometry" />
