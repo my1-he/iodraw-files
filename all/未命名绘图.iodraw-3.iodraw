@@ -404,8 +404,8 @@
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-103" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="3260" as="sourcePoint" />
-            <mxPoint x="810" y="3210" as="targetPoint" />
+            <mxPoint x="260" y="3746.5" as="sourcePoint" />
+            <mxPoint x="310" y="3696.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-104" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="SaAClxn0hPx67OiemrMv-65">
@@ -430,17 +430,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="164.5" y="3800" as="sourcePoint" />
             <mxPoint x="214.5" y="3750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="3760" as="sourcePoint" />
-            <mxPoint x="450" y="3710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-123" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SaAClxn0hPx67OiemrMv-110">
-          <mxGeometry x="-0.1533" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-111" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
