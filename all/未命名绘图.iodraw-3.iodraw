@@ -562,7 +562,7 @@
           <mxGeometry x="2632" y="4122" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-24" value="商家端（10 页）&#xa;商超店员 — 发布·核销·报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="808" y="3988" width="253" height="66" as="geometry" />
+          <mxGeometry x="1380" y="3988" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-25" value="注册入驻" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="203.25" y="4113" width="124" height="49" as="geometry" />
@@ -680,13 +680,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="5328" y="4088" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-18" target="4LdkIAxoBkT8z1ShLxVI-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1932" y="4088" />
             </Array>
           </mxGeometry>
         </mxCell>
