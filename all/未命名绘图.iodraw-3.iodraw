@@ -553,13 +553,13 @@
           <mxGeometry x="2280" y="4340" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-22" value="我的订单&#xa;(核销码·退款)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2424" y="4113" width="158" height="66" as="geometry" />
+          <mxGeometry x="2450" y="4389" width="158" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-23" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2632" y="4122" width="125" height="49" as="geometry" />
+          <mxGeometry x="2686" y="4360" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-24" value="商家端（10 页）&#xa;商超店员 — 发布·核销·报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1380" y="3988" width="253" height="66" as="geometry" />
+          <mxGeometry x="1860" y="3988" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-25" value="注册入驻" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="203.25" y="4113" width="124" height="49" as="geometry" />
@@ -690,13 +690,6 @@
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-3" target="4LdkIAxoBkT8z1ShLxVI-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-3" target="4LdkIAxoBkT8z1ShLxVI-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="934" y="3929" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
