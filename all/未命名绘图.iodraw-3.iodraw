@@ -493,7 +493,7 @@
           <mxGeometry x="20" y="4320" width="1795" height="280" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-2" value="管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2811" y="3954" width="2624" height="250" as="geometry" />
+          <mxGeometry x="2811" y="3954" width="2624" height="416" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-3" value="超市临期食品盲盒管理系统&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2185" y="3820" width="254" height="84" as="geometry" />
