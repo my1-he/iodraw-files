@@ -568,13 +568,13 @@
           <mxGeometry x="203.25" y="4113" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-26" value="商家登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="224.5" y="4220" width="124" height="49" as="geometry" />
+          <mxGeometry x="350" y="4113" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-27" value="工作台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="425" y="4240" width="109" height="49" as="geometry" />
+          <mxGeometry x="210.75" y="4210" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-28" value="盲盒发布&#xa;(自定义·组合包)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562" y="4113" width="174" height="66" as="geometry" />
+          <mxGeometry x="610" y="4250" width="174" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-29" value="盲盒管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="785" y="4122" width="124" height="49" as="geometry" />
