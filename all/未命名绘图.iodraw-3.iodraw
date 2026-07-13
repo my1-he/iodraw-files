@@ -316,7 +316,7 @@
           <mxGeometry x="414" y="3508.5" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-67" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.5" y="3770" width="92" height="49" as="geometry" />
+          <mxGeometry x="69" y="3750.5" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-68" value="主营" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="79" y="3411" width="81" height="49" as="geometry" />
