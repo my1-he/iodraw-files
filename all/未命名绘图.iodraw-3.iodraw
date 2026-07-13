@@ -332,11 +332,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-77" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-70" target="SaAClxn0hPx67OiemrMv-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-82" value="订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="276.5" y="3647.5" width="92" height="49" as="geometry" />
         </mxCell>
