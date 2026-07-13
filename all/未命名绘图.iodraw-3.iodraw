@@ -558,7 +558,7 @@
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-23" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2686" y="4360" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-24" value="商家端&#xa;商超店员 — 发布·核销·报表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4LdkIAxoBkT8z1ShLxVI-24" value="商家端&#xa;（商超店员 — 发布·核销·报表）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1860" y="4026" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-25" value="注册入驻" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -613,6 +613,7 @@
             <mxPoint x="2400" y="3900" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2627" y="3960" />
+              <mxPoint x="2400" y="3960" />
             </Array>
           </mxGeometry>
         </mxCell>
