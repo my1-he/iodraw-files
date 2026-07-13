@@ -233,7 +233,7 @@
         <mxCell id="SaAClxn0hPx67OiemrMv-43" value="读取pickupEnd&#xa;计算截止时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-170" y="3113" width="165" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-44" value="当前时间&#xa;&amp;gt;截止时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SaAClxn0hPx67OiemrMv-44" value="当前时间&#xa;&gt;截止时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110.5" y="3120" width="149.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-45" value="订单状态&#xa;= 已过期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
