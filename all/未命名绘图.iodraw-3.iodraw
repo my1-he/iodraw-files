@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-19" value="商家注册&#xa;填写店铺信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-337.5" y="2260" width="157" height="66" as="geometry" />
+          <mxGeometry x="-337.5" y="2263" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-20" value="提交审核&#xa;status=待审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="2263" width="160" height="66" as="geometry" />
@@ -160,7 +160,7 @@
         <mxCell id="SaAClxn0hPx67OiemrMv-25" value="商家可登录&#xa;使用全部功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="221" y="2495" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-19" target="SaAClxn0hPx67OiemrMv-20">
+        <mxCell id="SaAClxn0hPx67OiemrMv-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-19" target="SaAClxn0hPx67OiemrMv-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
