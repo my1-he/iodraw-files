@@ -594,11 +594,6 @@
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-34" value="账户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="517" y="4370" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-3" target="4LdkIAxoBkT8z1ShLxVI-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-69" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.138;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-24" target="4LdkIAxoBkT8z1ShLxVI-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1990" y="3960" as="sourcePoint" />
@@ -609,10 +604,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4LdkIAxoBkT8z1ShLxVI-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2350" y="3950" as="sourcePoint" />
-            <mxPoint x="2400" y="3900" as="targetPoint" />
+            <mxPoint x="2290" y="3980" as="sourcePoint" />
+            <mxPoint x="2340" y="3930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
