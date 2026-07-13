@@ -495,9 +495,6 @@
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-2" value="管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2811" y="4330" width="2624" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-67" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;horizontal=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-3" target="4LdkIAxoBkT8z1ShLxVI-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-3" target="4LdkIAxoBkT8z1ShLxVI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -604,8 +601,8 @@
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1920" y="3890" as="sourcePoint" />
-            <mxPoint x="1970" y="3840" as="targetPoint" />
+            <mxPoint x="1990" y="3960" as="sourcePoint" />
+            <mxPoint x="2040" y="3910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
