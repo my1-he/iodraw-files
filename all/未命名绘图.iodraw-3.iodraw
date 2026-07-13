@@ -83,7 +83,7 @@
           <mxGeometry x="36" y="1399" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-6" value="商家扫码核销&#xa;订单完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="1399" width="156" height="66" as="geometry" />
+          <mxGeometry x="-176" y="1399" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-0" target="SaAClxn0hPx67OiemrMv-1">
           <mxGeometry relative="1" as="geometry">
@@ -119,7 +119,7 @@
           <mxGeometry x="-350" y="1133" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-370" y="1020" width="120" height="80" as="geometry" />
+          <mxGeometry x="-350" y="1392" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
