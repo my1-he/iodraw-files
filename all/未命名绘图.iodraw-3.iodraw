@@ -313,7 +313,7 @@
           <mxGeometry x="73" y="3507" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-66" value="盲盒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="3680" width="92" height="49" as="geometry" />
+          <mxGeometry x="414" y="3523" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-67" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="74" y="3887" width="92" height="49" as="geometry" />
@@ -322,7 +322,7 @@
           <mxGeometry x="79" y="3411" width="81" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-69" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="3710" width="81" height="81" as="geometry" />
+          <mxGeometry x="250" y="3491" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-70" value="食安主投诉" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="3686" width="129" height="129" as="geometry" />
