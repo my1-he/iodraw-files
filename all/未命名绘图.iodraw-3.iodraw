@@ -327,21 +327,6 @@
         <mxCell id="SaAClxn0hPx67OiemrMv-70" value="食安投诉" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="68" y="3640" width="104" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-72" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-64" target="SaAClxn0hPx67OiemrMv-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-73" value="N" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-68" target="SaAClxn0hPx67OiemrMv-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-75" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-69" target="SaAClxn0hPx67OiemrMv-66">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-76" value="M" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-65" target="SaAClxn0hPx67OiemrMv-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
