@@ -502,22 +502,22 @@
           <mxGeometry x="3993" y="3979" width="194" height="84" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-5" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2846" y="4122" width="125" height="49" as="geometry" />
+          <mxGeometry x="2860" y="4270" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-6" value="数据大屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3021" y="4122" width="125" height="49" as="geometry" />
+          <mxGeometry x="3030" y="4340" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-7" value="管理员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3196" y="4122" width="140" height="49" as="geometry" />
+          <mxGeometry x="3220" y="4560" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-8" value="角色管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3386" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="3380" y="4397.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-9" value="商家管理&#xa;(列表·审核·详情)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3560" y="4113" width="180" height="66" as="geometry" />
+          <mxGeometry x="3542" y="4610" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-10" value="用户管理&#xa;(列表·详情)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3789" y="4113" width="142" height="66" as="geometry" />
+          <mxGeometry x="3760" y="4480" width="142" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-11" value="盲盒管理&#xa;(列表·详情·下架·举报)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3981" y="4113" width="217" height="66" as="geometry" />
