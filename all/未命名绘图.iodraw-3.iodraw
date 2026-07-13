@@ -325,12 +325,7 @@
           <mxGeometry x="250" y="3491" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-70" value="食安投诉" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="68" y="3640" width="104" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="SaAClxn0hPx67OiemrMv-76" value="M" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-65" target="SaAClxn0hPx67OiemrMv-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="-84" y="3610" width="104" height="64" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-82" value="订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="276.5" y="3647.5" width="92" height="49" as="geometry" />
