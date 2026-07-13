@@ -574,16 +574,16 @@
           <mxGeometry x="210.75" y="4210" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-28" value="盲盒发布&#xa;(自定义·组合包)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="4250" width="174" height="66" as="geometry" />
+          <mxGeometry x="351" y="4193" width="174" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-29" value="盲盒管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="785" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="550" y="4204" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-30" value="扫码核销" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="959" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="700" y="4204" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-31" value="核销记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1133" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="201" y="4290" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-32" value="清仓报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1307" y="4122" width="124" height="49" as="geometry" />
