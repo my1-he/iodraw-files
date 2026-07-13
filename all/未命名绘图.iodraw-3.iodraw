@@ -195,7 +195,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="2540" width="120" height="80" as="geometry" />
+          <mxGeometry x="134.5" y="2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SaAClxn0hPx67OiemrMv-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="2600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
