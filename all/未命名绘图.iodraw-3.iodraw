@@ -492,9 +492,6 @@
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-0" value="商家模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="4320" width="1795" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-1" value="用户模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1835" y="3954" width="956" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-2" value="管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2811" y="3954" width="2624" height="250" as="geometry" />
         </mxCell>
@@ -547,13 +544,13 @@
           <mxGeometry x="2193" y="3988" width="237" height="66" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-19" value="注册登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1870" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="1910" y="4311" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-20" value="盲盒卡片首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2044" y="4122" width="156" height="49" as="geometry" />
+          <mxGeometry x="2068" y="4320" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-21" value="盲盒详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2250" y="4122" width="124" height="49" as="geometry" />
+          <mxGeometry x="2280" y="4340" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-22" value="我的订单&#xa;(核销码·退款)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2424" y="4113" width="158" height="66" as="geometry" />
@@ -680,20 +677,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="5328" y="4088" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-18" target="4LdkIAxoBkT8z1ShLxVI-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2503" y="4088" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4LdkIAxoBkT8z1ShLxVI-18" target="4LdkIAxoBkT8z1ShLxVI-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2694" y="4088" />
             </Array>
           </mxGeometry>
         </mxCell>
