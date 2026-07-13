@@ -65,25 +65,25 @@
           <mxGeometry x="210" y="970" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-0" value="用户浏览&#xa;盲盒首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="1080" width="124" height="66" as="geometry" />
+          <mxGeometry x="-156.5" y="1140" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-1" value="选择盲盒&#xa;点击立即下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="28" y="1196" width="156" height="66" as="geometry" />
+          <mxGeometry x="-172.5" y="1256" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-2" value="弹窗确认&#xa;金额和取货时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1313" width="173" height="66" as="geometry" />
+          <mxGeometry x="-180.5" y="1373" width="173" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-3" value="确认支付&#xa;(模拟)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="1429" width="125" height="66" as="geometry" />
+          <mxGeometry x="-156.5" y="1489" width="125" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-4" value="后端生成订单&#xa;扣库存+核销码&#xa;生成核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="24" y="1545" width="164" height="84" as="geometry" />
+          <mxGeometry x="-176.5" y="1605" width="164" height="84" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-5" value="用户到店&#xa;出示核销码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="36" y="1679" width="140" height="66" as="geometry" />
+          <mxGeometry x="-164.5" y="1739" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-6" value="商家扫码核销&#xa;订单完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="28" y="1795" width="156" height="66" as="geometry" />
+          <mxGeometry x="-172.5" y="1855" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SaAClxn0hPx67OiemrMv-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SaAClxn0hPx67OiemrMv-0" target="SaAClxn0hPx67OiemrMv-1">
           <mxGeometry relative="1" as="geometry">
@@ -114,6 +114,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SaAClxn0hPx67OiemrMv-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
