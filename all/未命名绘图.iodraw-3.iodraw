@@ -498,8 +498,8 @@
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-3" value="超市临期食品盲盒管理系统&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2185" y="3820" width="254" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="4LdkIAxoBkT8z1ShLxVI-4" value="管理后台&#xa;平台运营方 — 审核·监管·数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2510" y="4017" width="230" height="84" as="geometry" />
+        <mxCell id="4LdkIAxoBkT8z1ShLxVI-4" value="管理后台&#xa;（平台运营方 — 审核·监管·数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2510" y="4023.5" width="230" height="71" as="geometry" />
         </mxCell>
         <mxCell id="4LdkIAxoBkT8z1ShLxVI-5" value="登录认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2860" y="4270" width="125" height="49" as="geometry" />
